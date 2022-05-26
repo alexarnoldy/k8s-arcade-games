@@ -1,0 +1,10 @@
+apiVersion: retro.sparkfabrik.com/v1
+kind: Game
+metadata:
+  name: battlezone
+  namespace: games
+spec:
+  name: "Battlezone"
+  zipUrl: "https://dosgames.com/files/bzone.zip"
+  dir: "."
+  exe: "BZONE.COM"

@@ -1,3 +1,5 @@
+## Important: This uses a container image hosted in aarnoldy's dockerhub. It does NOT use the DOSBox game controller.
+
 # Pac-Man + NodeJS + MongoDB Microservices Application
 
 This is an example Kubernetes application that hosts an HTML5 Pac-Man game with Node.js as the web server and backend to read

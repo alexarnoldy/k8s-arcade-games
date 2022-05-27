@@ -1,0 +1,2 @@
+dependsOn:
+  - name: game-controller-crds-game-controller-crds 

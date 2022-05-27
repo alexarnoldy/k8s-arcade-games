@@ -6,7 +6,7 @@ metadata:
   name: mongo
   namespace: games
 spec:
-  type: NodePort
+  type: ClusterIP
   ports:
     - port: 27017
       targetPort: 27017

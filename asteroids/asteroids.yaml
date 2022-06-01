@@ -1,0 +1,10 @@
+apiVersion: retro.sparkfabrik.com/v1
+kind: Game
+metadata:
+  name: asteroids
+  namespace: games
+spec:
+  name: "Asteroids"
+  zipUrl: "https://dosgames.com/files/rocks.zip"
+  dir: "."
+  exe: "ROCKSVGA.EXE"

@@ -1,2 +1,2 @@
 dependsOn:
-  - name: local-path-provisioner-default-sc-local-path-pr-19a52
+  - name: local-path-storage-class-local-path-provisioner-ad9d0

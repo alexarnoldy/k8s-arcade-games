@@ -3,4 +3,9 @@ kind: Namespace
 metadata:
   name: games
 
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: games01
 

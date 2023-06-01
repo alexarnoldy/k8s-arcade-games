@@ -1,0 +1,10 @@
+apiVersion: retro.sparkfabrik.com/v1
+kind: Game
+metadata:
+  name: defender
+  namespace: games
+spec:
+  name: "Defender"
+  zipUrl: "https://dosgames.com/files/DOSBOX_LOTF.ZIP"
+  dir: "."
+  exe: "LOTF.BAT"

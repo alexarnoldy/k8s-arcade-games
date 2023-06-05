@@ -1,2 +1,2 @@
 dependsOn:
-  - name: video-game-controller-crds-game-controller-crds
+  - name: game-controller-crds-game-controller-crds

@@ -1,2 +1,2 @@
 dependsOn:
-  - name: video-game-controller-game-controller 
+  - name: game-controller-game-controller 
